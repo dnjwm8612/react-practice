@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dnjwm8612/react-practice/static/css/main.073c9b0a.css",
-    "main.js": "/dnjwm8612/react-practice/static/js/main.7500e413.js",
-    "static/js/787.b701888c.chunk.js": "/dnjwm8612/react-practice/static/js/787.b701888c.chunk.js",
-    "static/media/logo.svg": "/dnjwm8612/react-practice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dnjwm8612/react-practice/index.html",
-    "main.073c9b0a.css.map": "/dnjwm8612/react-practice/static/css/main.073c9b0a.css.map",
-    "main.7500e413.js.map": "/dnjwm8612/react-practice/static/js/main.7500e413.js.map",
-    "787.b701888c.chunk.js.map": "/dnjwm8612/react-practice/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/react-practice/static/css/main.073c9b0a.css",
+    "main.js": "/react-practice/static/js/main.da470f4b.js",
+    "static/js/787.b701888c.chunk.js": "/react-practice/static/js/787.b701888c.chunk.js",
+    "static/media/logo.svg": "/react-practice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-practice/index.html",
+    "main.073c9b0a.css.map": "/react-practice/static/css/main.073c9b0a.css.map",
+    "main.da470f4b.js.map": "/react-practice/static/js/main.da470f4b.js.map",
+    "787.b701888c.chunk.js.map": "/react-practice/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7500e413.js"
+    "static/js/main.da470f4b.js"
   ]
 }
